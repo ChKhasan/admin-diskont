@@ -38,7 +38,7 @@ export default {
       axios.defaults.withCredentials = true;
     },
     // baseURL: process.env.BASE_URL,
-    baseURL: "https://api.e-shop.ndc.uz/api/admin",
+    baseURL: "https://api.diskont.uz/api/admin",
   },
   components: true,
 
